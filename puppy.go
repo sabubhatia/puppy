@@ -13,3 +13,7 @@ func Barks() string {
 func BigBark() string {
 	return dog.WhenHeGrowsUp(Bark())
 }
+
+func BigBarks() string {
+	return dog.WhenHeGrowsUp(Barks())
+}

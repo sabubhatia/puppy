@@ -21,3 +21,8 @@ func BigBarks() string {
 func From100() string {
 	return "v1.0.0"
 }
+
+func From101() string {
+	return "v1.0.1"
+}
+

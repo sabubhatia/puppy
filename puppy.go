@@ -26,3 +26,7 @@ func From101() string {
 	return "v1.0.1"
 }
 
+func From111() string {
+	return "v1.1.1"
+}
+
